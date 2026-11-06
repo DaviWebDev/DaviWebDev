@@ -2,7 +2,7 @@
 
 <p align="center">
   <img
-    src="./profile-header.svg"
+    src="./analysis-output.png"
     width="100%"
     alt="Davi — Desenvolvedor Front-end"
   />
