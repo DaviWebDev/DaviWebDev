@@ -2,143 +2,105 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3000&pause=1000&color=A371F7&center=true&vCenter=true&width=650&lines=Estudante+de+Desenvolvimento+Front-end;Construindo+interfaces+modernas+e+acess%C3%ADveis;Performance%2C+qualidade+e+boas+pr%C3%A1ticas"
-    alt="Animação de apresentação"
+    src="./profile-header.svg"
+    width="100%"
+    alt="Davi — Desenvolvedor Front-end"
   />
 </p>
 
-<table>
-  <tr>
-    <td width="58%" valign="middle">
-      <h2>DAVI WEBDEV</h2>
-      <p><strong>FRONT-END DEVELOPER IN DEVELOPMENT</strong></p>
-      <p>HTML · CSS · JavaScript · TypeScript · Astro</p>
-      <p>Desenvolvendo experiências web com foco em qualidade, acessibilidade e performance.</p>
-    </td>
-    <td width="42%" valign="middle">
-      <strong>DEVELOPMENT PIPELINE</strong>
-      <pre>
-  code
-    |
-    v
-  lint ---> test
-             |
-             v
-           build
-             |
-             v
-           deploy
-
-  Quality | Security | Performance
-      </pre>
-      <p align="center">
-        <img src="https://img.shields.io/badge/CI-GitHub_Actions-238636?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions CI" />
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=A371F7&center=true&vCenter=true&width=650&lines=Estudante+de+Desenvolvimento+Front-end;Construindo+interfaces+modernas+e+acess%C3%ADveis;Performance%2C+qualidade+e+boas+pr%C3%A1ticas"
+    alt="Apresentação animada"
+  />
+</p>
 
 ---
 
-## 🧑‍💻 Sobre mim
+## 👨‍💻 Sobre mim
 
-Sou estudante de desenvolvimento Front-end e comecei minha jornada na programação em **2025**. Desde então, venho estudando, praticando e aprimorando minhas habilidades para construir aplicações web cada vez melhores.
+Comecei a estudar desenvolvimento Front-end em **2025** e continuo aprimorando minhas habilidades por meio de estudos, experimentação e projetos práticos.
 
-Tenho interesse em desenvolver interfaces modernas, responsivas e acessíveis, sem deixar de lado aspectos importantes como performance, organização do código, segurança e experiência do usuário.
+Tenho interesse em criar interfaces modernas, responsivas e acessíveis, valorizando não apenas o resultado visual, mas também a qualidade do código, a segurança e a performance.
 
-Atualmente, estou aprofundando meus conhecimentos em JavaScript, TypeScript e Astro, buscando aplicar boas práticas e ferramentas utilizadas em projetos reais.
+Atualmente, estou aprofundando meus conhecimentos em JavaScript, TypeScript e Astro, buscando desenvolver aplicações cada vez mais organizadas, eficientes e bem estruturadas.
 
-🎯 **Meu objetivo é transformar conhecimento técnico em soluções web bem construídas.**
+🎯 Meu objetivo é evoluir continuamente e transformar conhecimento técnico em soluções web de qualidade.
 
-## 🛠️ Tecnologias e ferramentas
+## 🛠️ Stack e ferramentas
 
-### Desenvolvimento Front-end
+### Front-end
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,astro,tailwind&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, Astro e Tailwind CSS" />
 </p>
 
+### Desenvolvimento e workflow
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub e VS Code" />
+  <img src="https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white" alt="pnpm" />
+  <img src="https://img.shields.io/badge/Husky-21262D?style=flat-square&logo=git&logoColor=white" alt="Husky" />
+</p>
+
 ### Qualidade e testes
 
 <p>
-  <img src="https://skillicons.dev/icons?i=eslint,prettier,playwright&theme=dark" alt="ESLint, Prettier e Playwright" />
+  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" alt="ESLint" />
+  <img src="https://img.shields.io/badge/Prettier-1A2C34?style=flat-square&logo=prettier&logoColor=F7BA3E" alt="Prettier" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
+  <img src="https://img.shields.io/badge/Lighthouse-F44B21?style=flat-square&logo=lighthouse&logoColor=white" alt="Lighthouse" />
 </p>
 
-### Infraestrutura e workflow
+### Segurança
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,nginx,githubactions,vercel&theme=dark" alt="Git, GitHub, Docker, Nginx, GitHub Actions e Vercel" />
+  <img src="https://img.shields.io/badge/Content_Security_Policy-CSP-8957E5?style=flat-square" alt="CSP" />
+  <img src="https://img.shields.io/badge/Gitleaks-21262D?style=flat-square&logo=git&logoColor=white" alt="Gitleaks" />
+  <img src="https://img.shields.io/badge/pnpm_Audit-F69220?style=flat-square&logo=pnpm&logoColor=white" alt="pnpm audit" />
 </p>
 
-### Segurança e boas práticas
+### Infraestrutura e CI/CD
 
 <p>
-  <img src="https://img.shields.io/badge/Content_Security_Policy-CSP-8957E5?style=flat-square" alt="Content Security Policy" />
-  <img src="https://img.shields.io/badge/Gitleaks-Secret_Scanning-21262D?style=flat-square&logo=git&logoColor=white" alt="Gitleaks" />
-  <img src="https://img.shields.io/badge/pnpm_Audit-Dependency_Security-F69220?style=flat-square&logo=pnpm&logoColor=white" alt="pnpm audit" />
+  <img src="https://skillicons.dev/icons?i=docker,nginx,githubactions,vercel&theme=dark" alt="Docker, Nginx, GitHub Actions e Vercel" />
 </p>
 
-| Categoria | Ferramentas |
-|---|---|
-| Linguagens | HTML5, CSS3, JavaScript, TypeScript |
-| Framework | Astro |
-| Estilização | Tailwind CSS |
-| Qualidade | ESLint, Prettier, lint-staged |
-| Testes | Playwright |
-| Segurança | CSP, Gitleaks, pnpm audit |
-| Infraestrutura | Docker, Nginx |
-| CI/CD | GitHub Actions |
-| Performance | Lighthouse CI |
-| Workflow | Git, GitHub, Husky, pnpm |
+## ⚙️ Práticas de desenvolvimento
 
-## 🚀 Projeto em destaque
-
-### 🌿 Thivi Edu
-
-Projeto de site institucional desenvolvido com Astro, TypeScript e Tailwind CSS, com foco em performance, acessibilidade, SEO e boas práticas de desenvolvimento.
-
-**Principais implementações:**
-
-- Arquitetura com geração de páginas estáticas.
-- Componentes reutilizáveis e organização modular.
-- JavaScript vanilla com TypeScript.
-- Imagens otimizadas e carregamento estratégico de recursos.
-- Content Collections com validação de schemas.
-- Políticas de segurança e cabeçalhos HTTP.
+- HTML semântico e acessibilidade.
+- CSS moderno, responsividade e organização com BEM.
+- JavaScript vanilla e TypeScript.
+- Componentização e organização modular.
+- Otimização de imagens e recursos.
+- SEO técnico e boas práticas de performance.
+- Content Security Policy e segurança de dependências.
 - Testes automatizados com Playwright.
-- Pipeline CI/CD com GitHub Actions.
-- Monitoramento de qualidade com Lighthouse CI.
-
-<p>
-  <a href="https://thivi-website.vercel.app/">
-    <img src="https://img.shields.io/badge/ACESSAR_PROJETO-73AB3A?style=for-the-badge&logo=vercel&logoColor=white" alt="Acessar projeto" />
-  </a>
-  <a href="https://github.com/DaviWebDev/thivi-website">
-    <img src="https://img.shields.io/badge/REPOSIT%C3%93RIO-21262D?style=for-the-badge&logo=github&logoColor=white" alt="Repositório GitHub" />
-  </a>
-</p>
+- Automação de qualidade e deploy com GitHub Actions.
+- Monitoramento com Lighthouse CI.
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=DaviWebDev&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
-    alt="Estatísticas do GitHub"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviWebDev&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
-    alt="Linguagens mais utilizadas"
-  />
+  <a href="https://github.com/DaviWebDev">
+    <img
+      height="180"
+      src="https://github-stats-extended.vercel.app/api?username=DaviWebDev&show_icons=true&theme=github_dark&locale=pt-br&title_color=A371F7&text_color=C9D1D9&icon_color=58A6FF&bg_color=0D1117&border_color=30363D&border_radius=10"
+      alt="Estatísticas do GitHub"
+    />
+  </a>
 </p>
 
+## 💻 Linguagens mais utilizadas
+
 <p align="center">
-  <img
-    width="70%"
-    src="https://streak-stats.demolab.com?user=DaviWebDev&theme=github-dark-blue&hide_border=true"
-    alt="Sequência de contribuições"
-  />
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img
+      width="380"
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=DaviWebDev&layout=pie&langs_count=8&size_weight=0.5&count_weight=0.5&theme=github_dark&locale=pt-br&title_color=A371F7&text_color=C9D1D9&icon_color=58A6FF&bg_color=0D1117&border_color=30363D&border_radius=10"
+      alt="Gráfico de pizza das linguagens mais utilizadas"
+    />
+  </a>
 </p>
 
 ## 🐍 Contribution Snake
@@ -154,22 +116,20 @@ Projeto de site institucional desenvolvido com Astro, TypeScript e Tailwind CSS,
       srcset="https://raw.githubusercontent.com/DaviWebDev/DaviWebDev/output/github-contribution-grid-snake.svg"
     />
     <img
-      alt="Animação da cobrinha percorrendo o calendário de contribuições do GitHub"
-      src="https://raw.githubusercontent.com/DaviWebDev/DaviWebDev/output/github-contribution-grid-snake.svg"
+      alt="Animação da cobrinha no calendário de contribuições"
+      src="https://raw.githubusercontent.com/DaviWebDev/DaviWebDev/output/github-contribution-grid-snake-dark.svg"
     />
   </picture>
 </p>
 
 ---
 
-## 📫 Vamos nos conectar?
-
-<p>
+<p align="center">
   <a href="https://github.com/DaviWebDev">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
 <p align="center">
-  <sub>Construindo, aprendendo e evoluindo um projeto de cada vez. 💜</sub>
+  <sub>Aprendendo, construindo e evoluindo um projeto de cada vez. 💜</sub>
 </p>
