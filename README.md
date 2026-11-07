@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=A371F7&center=true&vCenter=true&width=650&lines=;Construindo+interfaces+modernas+e+acess%C3%ADveis;Performance%2C+seguran%C3%A7a+e+boas+pr%C3%A1ticas" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=62E6DE&center=true&vCenter=true&width=650&lines=;Construindo+interfaces+modernas+e+acess%C3%ADveis;Performance%2C+seguran%C3%A7a+e+boas+pr%C3%A1ticas" alt="Typing SVG" /></a>
 </p>
 
 ---
@@ -81,7 +81,7 @@ Atualmente, estou aprofundando meus conhecimentos em JavaScript, TypeScript e As
   <a href="https://github.com/DaviWebDev">
     <img
       height="180"
-      src="https://github-stats-extended.vercel.app/api?username=DaviWebDev&show_icons=true&theme=github_dark&locale=pt-br&title_color=A371F7&text_color=C9D1D9&icon_color=58A6FF&bg_color=0D1117&border_color=30363D&border_radius=10"
+      src="https://github-stats-extended.vercel.app/api?username=DaviWebDev&custom_title=Estat%C3%ADsticas%20do%20GitHub&show_icons=true&include_all_commits=true&theme=transparent&title_color=62E6DE&text_color=ffff&icon_color=62E6DE&border_color=30363D&border_radius=10&locale=pt-br"
       alt="Estatísticas do GitHub"
     />
   </a>
@@ -91,11 +91,7 @@ Atualmente, estou aprofundando meus conhecimentos em JavaScript, TypeScript e As
 
 <p align="center">
   <a href="https://github.com/stats-organization/github-stats-extended">
-    <img
-      width="380"
-      src="https://github-stats-extended.vercel.app/api/top-langs/?username=DaviWebDev&layout=pie&langs_count=8&size_weight=0.5&count_weight=0.5&theme=github_dark&locale=pt-br&title_color=A371F7&text_color=C9D1D9&icon_color=58A6FF&bg_color=0D1117&border_color=30363D&border_radius=10"
-      alt="Gráfico de pizza das linguagens mais utilizadas"
-    />
+    <img width="380" src="https://github-stats-extended.vercel.app/api/top-langs?username=DaviWebDev&layout=pie&langs_count=8&theme=transparent&size_weight=0.5&count_weight=0.5&locale=pt-br&title_color=62E6DE&text_color=ffff&icon_color=62E6DE&border_color=30363D&border_radius=10"  alt="Gráfico de pizza das linguagens mais utilizadas"/>
   </a>
 </p>
 
@@ -127,5 +123,5 @@ Atualmente, estou aprofundando meus conhecimentos em JavaScript, TypeScript e As
 </p>
 
 <p align="center">
-  <sub>Aprendendo, construindo e evoluindo um projeto de cada vez. 💜</sub>
+  <sub>Aprendendo, construindo e evoluindo um projeto de cada vez. 🩵</sub>
 </p>
