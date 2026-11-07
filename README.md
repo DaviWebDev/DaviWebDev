@@ -2,13 +2,13 @@
 
 <p align="center">
   <img
-    src="./analysis-output.png"
+    src="./profile-header.svg"
     style="width: 100%; height: auto"
     alt="Davi — Desenvolvedor Front-end"/>
 </p>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=A371F7&center=true&vCenter=true&width=650&lines=Desenvolvedor+Front-end+%7C+Astro+%C2%B7+Typescipt+%C2%B7+Tailwind;Construindo+interfaces+modernas+e+acess%C3%ADveis;Performance%2C+seguran%C3%A7a+e+boas+pr%C3%A1ticas" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=A371F7&center=true&vCenter=true&width=650&lines=;Construindo+interfaces+modernas+e+acess%C3%ADveis;Performance%2C+seguran%C3%A7a+e+boas+pr%C3%A1ticas" alt="Typing SVG" /></a>
 </p>
 
 ---
