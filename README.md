@@ -1,10 +1,7 @@
 # Olá! Seja Bem-vindo 👋
 
 <p align="center">
-  <img
-    src="./profile-header.svg"
-    style="width: 100%; height: auto"
-    alt="Davi — Desenvolvedor Front-end"/>
+  <img src="./profile-header.svg" alt="Davi — Desenvolvedor Front-end" width="100%">
 </p>
 
 <p align="center">
@@ -54,7 +51,7 @@ Atualmente, estou aprofundando meus conhecimentos em JavaScript, TypeScript e As
   <img src="https://img.shields.io/badge/Content_Security_Policy-CSP-8957E5?style=flat-square" alt="CSP" />
   <img src="https://img.shields.io/badge/BetterLeaks-Security-green?style=flat-square" alt="BetterLeaks" />  
   <img src="https://img.shields.io/badge/pnpm_Audit-Passed-F69220?style=flat-square&logo=pnpm&logoColor=white" alt="pnpm audit" />
-</p>   
+</p>
 
 ### Infraestrutura e CI/CD
 
