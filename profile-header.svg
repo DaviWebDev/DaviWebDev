@@ -276,7 +276,7 @@
   <path d="M 732 308 L 732 312 L 728 312" fill="none" stroke="#334155" stroke-width="1" />
 
   <!-- Top Header Bar (Outside Inner Panel) -->
-  <text x="48" y="46" class="text-dim">DAVIWEDDEV / PROFILE</text>
+  <text x="48" y="46" class="text-dim">DAVIWEBDEV / PROFILE</text>
   <circle cx="662" cy="42" r="3.5" class="status-dot" />
   <text x="716" y="46" class="text-dim status-text-online">ONLINE</text>
   <text x="716" y="46" class="text-dim status-text-coding">CODING</text>
