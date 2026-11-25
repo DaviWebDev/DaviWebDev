@@ -49,6 +49,7 @@ Tenho especial interesse em segurança e acessibilidade no que diz respeito ao d
   <img src="https://img.shields.io/badge/Content_Security_Policy-CSP-8957E5?style=flat-square" alt="CSP" />
   <img src="https://img.shields.io/badge/BetterLeaks-Security-green?style=flat-square" alt="BetterLeaks" />  
   <img src="https://img.shields.io/badge/pnpm_Audit-Passed-F69220?style=flat-square&logo=pnpm&logoColor=white" alt="pnpm audit" />
+  <img src="https://img.shields.io/badge/semgrep-passing-brightgreen?style=flat-square" alt="Semgrep" />   
 </p>
 
 ### Infraestrutura e CI/CD
