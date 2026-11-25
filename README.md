@@ -12,13 +12,11 @@
 
 ## 👨‍💻 Sobre mim
 
-Comecei a estudar desenvolvimento Front-end em **2025** e continuo aprimorando minhas habilidades por meio de estudos, experimentação e projetos práticos.
+Desde 2025, estudei desenvolvimento front-end e continuo aprimorando essas habilidades por meio de estudos e projetos contínuos. Gosto de trabalhar com interfaces de usuário para criar designs atraentes e modernos, com foco na qualidade do código e no desempenho.
 
-Tenho interesse em criar interfaces modernas, responsivas e acessíveis, valorizando não apenas o resultado visual, mas também a qualidade do código, a segurança e a performance.
+Tenho especial interesse em segurança e acessibilidade no que diz respeito ao desenvolvimento de aplicações web. Atualmente, estou principalmente interessado em desenvolvimento do lado do cliente, focando desempenho e segurança, além de sempre tentar melhorar minha organização, estrutura  e lógica de meus projetos web.
 
-Atualmente, estou aprofundando meus conhecimentos em JavaScript, TypeScript e Astro, buscando desenvolver aplicações cada vez mais organizadas, eficientes e bem estruturadas.
-
-🎯 Meu objetivo é evoluir continuamente e transformar conhecimento técnico em soluções web de qualidade.
+🎯 Meu objetivo é continuar adaptando e ampliando meu conhecimento das tecnologias de desenvolvimento web para criar melhores soluções web.
 
 ## 🛠️ Stack e ferramentas
 
