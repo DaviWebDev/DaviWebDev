@@ -14,7 +14,7 @@
 
 Desde 2025, estudei desenvolvimento front-end e continuo aprimorando essas habilidades por meio de estudos e projetos contínuos. Gosto de trabalhar com interfaces de usuário para criar designs atraentes e modernos, com foco na qualidade do código e no desempenho.
 
-Tenho especial interesse em segurança e acessibilidade no que diz respeito ao desenvolvimento de aplicações web. Atualmente, estou principalmente interessado em desenvolvimento do lado do cliente, focando desempenho e segurança, além de sempre tentar melhorar minha organização, estrutura  e lógica de meus projetos web.
+Tenho especial interesse em segurança e acessibilidade no que diz respeito ao desenvolvimento de aplicações web. Atualmente, estou principalmente interessado em desenvolvimento do lado do cliente, focando desempenho e segurança. Além de sempre tentar melhorar minha organização, estrutura  e lógica de meus projetos web.
 
 🎯 Meu objetivo é continuar adaptando e ampliando meu conhecimento das tecnologias de desenvolvimento web para criar melhores soluções web.
 
